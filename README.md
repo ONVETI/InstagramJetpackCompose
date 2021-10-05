@@ -7,6 +7,7 @@ This sample showcases:
 * Slide Stories
 
 <p float="center">
+  [![Watch the video](https://i.imgur.com/vKb2F1B.png)](screenshots and videos/instagramjetpackcompose.mp4)
   <img src="screenshots and videos/instagramjetpackcompose.mp4" width="250" />
   <img src="screenshots and videos/screenshot_1.jpg" width="250" />
   <img src="screenshots and videos/screenshot_2.jpg" width="250" />
