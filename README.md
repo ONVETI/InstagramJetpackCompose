@@ -6,6 +6,8 @@ This sample showcases:
 * Home Screen
 * Slide Stories
 
+[Download this Application][download_app]
+
 <p float="center">
   <img src="screenshots and videos/instagramjetpackcompose.gif" width="250" />
   <img src="screenshots and videos/screenshot_1.jpg" width="250" />
@@ -18,6 +20,8 @@ Libraries:
 * Compose Toolkit
 
 [compose]: https://developer.android.com/jetpack/compose
+[download_app]: https://github.com/ONVETI/InstagramJetpackCompose/blob/main/screenshots%20and%20videos/instagramJpCompose.apk
+
 
 ## License
 
