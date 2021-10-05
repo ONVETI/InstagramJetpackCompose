@@ -9,7 +9,7 @@ This sample showcases:
 <p float="center">
   <img src="screenshots and videos/instagramjetpackcompose.mp4" width="250" />
   <img src="screenshots and videos/screenshot_1.jpg" width="250" />
-  <img src="screenshots and videos/screensho2_2.jpg" width="250" />
+  <img src="screenshots and videos/screenshot_2.jpg" width="250" />
 </p>
 
 JetInstagram is still under development and some screens are not yet implemented.
