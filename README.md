@@ -26,7 +26,7 @@ Libraries:
 ## License
 
 ```
-Copyright [2021] [Quvonchbek Yangiboyev]
+Copyright 2021 Quvonchbek Yangiboyev
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
