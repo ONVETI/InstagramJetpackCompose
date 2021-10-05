@@ -7,7 +7,7 @@ This sample showcases:
 * Slide Stories
 
 <p float="center">
-  [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/ONVETI/InstagramJetpackCompose/blob/main/screenshots%20and%20videos/instagramjetpackcompose.mp4)
+  [![Watch the video](https://developer.android.com/codelabs/jetpack-compose-animation/img/ea1442f28b3c3b39.png)](https://github.com/ONVETI/InstagramJetpackCompose/blob/main/screenshots%20and%20videos/instagramjetpackcompose.mp4)
   <img src="screenshots and videos/instagramjetpackcompose.mp4" width="250" />
   <img src="screenshots and videos/screenshot_1.jpg" width="250" />
   <img src="screenshots and videos/screenshot_2.jpg" width="250" />
