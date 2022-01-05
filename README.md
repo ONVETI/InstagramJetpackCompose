@@ -5,6 +5,7 @@ This sample showcases:
 
 * Home Screen
 * Slide Stories
+* Slide Posts
 
 [Download this Application][download_app]
 
