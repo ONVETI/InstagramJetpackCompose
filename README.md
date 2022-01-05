@@ -6,6 +6,7 @@ This sample showcases:
 * Home Screen
 * Slide Stories
 * Slide Posts
+* Clickable Effect
 
 [Download this Application][download_app]
 
